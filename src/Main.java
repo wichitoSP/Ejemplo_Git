@@ -10,7 +10,8 @@ public class Main {
 
         //System.out.println("Hola esto es una prueba para subir un proyecto en GIT");
 
-        //System.out.println("Se ha realizado otro cambio a nuestro Repositorio remoto");
+        System.out.println("Se ha realizado otro cambio a nuestro Repositorio remoto");
+        System.out.println("Se ha realizado otro cambio a nuestro repositorio");
 
        //resultado = 1 + 2;
 
@@ -35,6 +36,8 @@ public class Main {
         // Solicitamos la cantidad el producto que se va a comprar:
 
         System.out.print("Ingrese la cantidad del Producto Comprado:  ");
+
+
 
         int cantidad = scanner.nextInt();
 
